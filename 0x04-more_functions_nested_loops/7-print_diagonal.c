@@ -18,7 +18,6 @@ for (b = 0; b < i; b++)
 {
 _putchar (' ');
 }
-_
 _putchar (92);
 _putchar ('\n');
 
