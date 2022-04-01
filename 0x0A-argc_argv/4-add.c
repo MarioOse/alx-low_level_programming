@@ -6,7 +6,7 @@
 /**
  * check_num - check - string there are digit
  * @str: array str
- * 
+ *
  * Return: Always 0 (Success)
  */
 
@@ -26,7 +26,7 @@ return (0);
 }
 
 count++;
-}
+{
 return (1);
 }
 
@@ -35,7 +35,7 @@ return (1);
  * @argc: Count arguments
  * @argv: Arguments
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(int argc, char *argv[])
