@@ -35,7 +35,7 @@ return (1);
  * @argc: Count arguments
  * @argv: Arguments
  *
- * Return: Always 0 (Success)
+ * return: Always 0 (Success)
  */
 
 int main(int argc, char *argv[])
